@@ -8,7 +8,7 @@
 # Site settings
 title: Correspondances Unilatérales
 description: '' # write a nice description for your blog
-baseurl: '/cayman-blog' # the subpath of your site, e.g. /blog
+baseurl: '/correspondances-unilaterales' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site http://www.example.com
 google_analytics: 'UA-79014183-1'
 twitter_username: 'twitter_username'
