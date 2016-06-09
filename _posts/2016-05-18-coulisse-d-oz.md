@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 ---
 
@@ -14,4 +14,3 @@ On l’a fait. On a construit un spectacle en une semaine, encore une fois. J’
 Les loges se vident tranquillement, on jette les oiseaux en carton ou on les garde ?
 
 On pourrait partir en caravane, se mettre sur la place des villes et des villages, discuter pendant le trajet de ce qu’on va jouer, s’arrêter sur la route pour récupérer du décors et des accessoires. Les habitants viendraient avec leur chaises, leur bancs, leurs enfants et leurs pique-niques. On scanderait l’annonce du début du spectacle, on balancerait de temps à autre du Shakespeare ou du Molière — oui parce que les acteurs de commedia de l’époque, ils improvisaient sur des canevas mais ils avaient aussi des monologues appris par coeur qui envoyaient du lourd — On finirait à boire et manger avec le public et on ronflerait sous les étoiles jusqu’au départ. On dirait au revoir à nos hôtes et on reprendrait la route, over the rainbow.
-
